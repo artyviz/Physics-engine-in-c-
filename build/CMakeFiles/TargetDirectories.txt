@@ -1,0 +1,3 @@
+/mnt/c/Users/Farhan/desktop/phyeng/build/CMakeFiles/phyeng.dir
+/mnt/c/Users/Farhan/desktop/phyeng/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Farhan/desktop/phyeng/build/CMakeFiles/rebuild_cache.dir
